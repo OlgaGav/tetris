@@ -3,6 +3,8 @@
 A classic **Tetris game** built using **HTML, CSS, and pure JavaScript**.  
 Includes falling tetrominoes, rotation, scoring, row clearing, next-piece preview, and Start/Pause button.
 
+https://olgagav.github.io/tetris/
+
 <img width="606" height="561" alt="image" src="https://github.com/user-attachments/assets/dc85bb06-a0af-4631-8213-ef1b66b3ffe0" />
 ---
 
